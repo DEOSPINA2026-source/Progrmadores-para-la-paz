@@ -1,0 +1,11 @@
+algoritmo: quiero manejar moto
+pasos a seguir:
+1.lo primero es ponerme de pie, utilizar proteccion por ejemplo:
+(zapatos, botas, chanclas,etc...).
+2.cojer las llaves de la moto.
+3.revisar la gasolina (si no tiene echarle)
+3.ponerla en neutro.
+4.encender la moto.
+5.presionar el embriague.
+6.bajar el cambio a primera y arrancar la moto manteniendo el equilibrio.
+7.subir cambios y mantener una velocidad estable.

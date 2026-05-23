@@ -1,0 +1,11 @@
+El uso de la información, la participación ciudadana y el uso de Git tienen
+como eje central la colaboración transparente y estructurada. ya que al verificar diferentes datos 
+en internet entre todos podemos construir una participación ciudadana informada, que sea democrática 
+y basada en hechos reales.
+Esta misma idea se traslada al desarrollo técnico cuando utilizamos Git, ya que es
+una herramienta diseñada para mantener el orden, la trazabilidad y la honestidad en el trabajo 
+colectivo. En Git, cada cambio se registra con un mensaje claro que explica el motivo del 
+cambio o la edición, lo que hace actuar con responsabilidad y rendir cuentas en el entorno público. 
+Así, el respeto por las fuentes en la red, el debate ciudadano constructivo y el control
+de versiones técnico se unen bajo un mismo principio ético: trabajar en equipo de manera
+organizada, transparente y orientada al bien común.
