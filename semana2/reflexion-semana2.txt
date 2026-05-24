@@ -4,4 +4,10 @@ proyecto?
 es una forma de rapida mas rapido asi sea para crea un documento 
 en nuestro desktop desde una terminal usando codigos de forma
 eficiente y trabajar en servidores remotos donde no existe una
-interfaz visual con carpetas y botones.
+interfaz visual con carpetas y botones
+Aunque existen programas visuales, el control de versiones con
+Git se maneja de forma nativa, segura y sin errores desde la 
+terminal.
+esto te permitecontrolar el sistema, gestionar archivos y
+ejecutar herramientas de programación mucho más rápido, usando
+comandos de texto directo en lugar de perder tiempo.

@@ -1,0 +1,9 @@
+Es importante que los proyectos de software mantengan un
+registro de cambios porque funciona como una máquina del
+tiempo y un espacio de colaboración seguro, permitiendo
+revertir errores que cometamos y podamos arreglarlos al 
+instante y organizar el trabajo de múltiples programadores
+sin que su código se destruya, para eso estan los puntos de
+retornos que es si una nueva actualización rompe la aplicación,
+el registro permite regresar el código al estado exacto en el
+que funcionaba en segundos

@@ -1,0 +1,8 @@
+1. Repositorio: espacio de almacenamiento digital estructurado
+donde seguardan, organizan y gestionan todos los archivos,
+carpetase historial de cambios de un proyecto de software.
+2. commit: es una captura o "foto" instantánea de los cambios realizados
+en tus archivos que se guarda de forma permanente en el historial 
+del repositorio.
+3. Push: acción de subir y sincronizar los commits de tu repositorio local
+(tu computadora) hacia un repositorio remoto (como GitHub en internet).
